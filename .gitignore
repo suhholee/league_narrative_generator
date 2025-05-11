@@ -1,5 +1,6 @@
 # Ignore locally cached model checkpoints
 models/
+.env
 
 
 # Jupyter checkpoints
